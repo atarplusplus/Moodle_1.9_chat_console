@@ -7,16 +7,16 @@
     left:15px;
 }
 
-.chat_header_table
-{
-    width:268px;
-}
-
 .chat_header_text_attr
 {
      color:white;
      font-size:14px;
      width:150px;
+}
+
+.chat_header table 
+{
+	width: 280px;
 }
 
 .chat_body
@@ -70,3 +70,4 @@
 .x, .min {
 	padding-top: 6px;
 }
+

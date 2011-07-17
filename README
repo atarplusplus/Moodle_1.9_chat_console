@@ -1,16 +1,32 @@
 Moodle1.9 Chat Console Ver. 0.5
 ================================
 
-This is a beta version of gmail/facebook like chat
-for Moodle 1.9.
+Description:
+------------
 
-It allows two student that meet each other on online courses to start 
+This is a beta version of gmail/facebook like chat for Moodle 1.9.
+
+It lets two student that meet each other on online courses to start 
 chatting.
 
 This block was written by Atar + Plus - http://atarplpl.co.il,
 any remarks, information, bugs etc could be sent to: yedidia@atarplpl.co.il
 
 This block was inpired by a software design made by Israel Open University.
+http://www.openu.ac.il
+
+Graphics parts was made by Comverse.
+
+Installation instructions:
+--------------------------
+
+1. Extract the 'chat_console' directory to your moodle 'blocks' directory
+2. Go to 'Notification' on 'Site Administration' block - it should write
+   something about creation of table and let you do some settings.
+3. Now you can add the block to your courses.
+
+Copyright:
+----------
 
 Copyright (C) 2011 onwards Atar + Plus http://atarplpl.co.il  
                                                                 
@@ -23,7 +39,6 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of       
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the        
 GNU General Public License for more details:                         
-                                                                     
           http://www.gnu.org/copyleft/gpl.html                       
                                                                      
 
