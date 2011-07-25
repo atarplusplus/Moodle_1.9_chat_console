@@ -26,7 +26,7 @@ class block_chat_console extends block_base {
         $this->content->text = '';
         $this->content->footer = '';
 
-        if (empty($this->instance)) {
+        if (empty($this->instance) || !isloggedin()) {
             return $this->content;
         }
 

@@ -388,7 +388,7 @@ function Get_Chat_HTML(chat_number, name)
 
     chat_html+= '<div class="chat_body" id="chat_text_area_body'+chat_number+'" style="background-image:'+image_url+';height:60px">';
     chat_html+= '<div class="chat_text_area_div">';
-    chat_html+= '   <textarea rows="2" cols="1" class="chat_text_area_attr" id="chat_text_area'+chat_number+'" onkeyup="Submit_Text(event,'+chat_number+')">Enter text</textarea>';
+    chat_html+= '   <textarea rows="2" cols="1" class="chat_text_area_attr" id="chat_text_area'+chat_number+'" onkeyup="Submit_Text(event,'+chat_number+')"></textarea>';
     chat_html+= '</div>';
     chat_html+= '</div>';
 

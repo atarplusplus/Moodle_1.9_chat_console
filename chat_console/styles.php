@@ -14,7 +14,7 @@
      width:150px;
 }
 
-.chat_header table 
+.chat_header table
 {
 	width: 280px;
 }
@@ -70,4 +70,3 @@
 .x, .min {
 	padding-top: 6px;
 }
-
